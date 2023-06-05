@@ -2,13 +2,13 @@
 Projects in Python developed during the Empowerdata Week.
 
 + Class 1: Budget generator
-  + ``fpdf``
+  + libs: ``fpdf``
 + Class 2: Tasks Automation
-  + ``pyautogui, pyperclip, yfinance``
+  + libs: ``pyautogui, pyperclip, yfinance``
 + Class 3: Data Analysis
-  + ``pandas, plotly_express``
+  + libs: ``pandas, plotly_express``
 + Class 4: Predictive Analytics
-  + ``yfinance, prophet, plotly_express``
+  + libs: ``yfinance, prophet, plotly_express``
 
 <br/>
 
